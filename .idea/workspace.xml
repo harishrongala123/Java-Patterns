@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2956360-e642-4ab1-b8fa-b6c415d83b95" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2Un93olfKVQuh1n3ftwyAVln7qB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_17" />
+      <module name="Java Patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._17" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2956360-e642-4ab1-b8fa-b6c415d83b95" name="Changes" comment="" />
+      <created>1693564286846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693564286846</updated>
+      <workItem from="1693564287718" duration="8372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
