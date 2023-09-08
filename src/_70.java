@@ -1,0 +1,12 @@
+public class _70 {
+    public static void main(String[] args) {
+        for (int i = 70; i > 65; i--) {
+            int a = 1;
+            for (int j = 65; j < i ; j++) {
+                    System.out.print((char) j +""+a);
+                    a++;
+            }
+            System.out.println();
+        }
+    }
+}

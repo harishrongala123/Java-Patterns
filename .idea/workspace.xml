@@ -5,41 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2956360-e642-4ab1-b8fa-b6c415d83b95" name="Changes" comment="patterns">
-      <change afterPath="$PROJECT_DIR$/src/_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_72.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_61.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,20 +60,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_17" />
-      <module name="Java Patterns" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application._17" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -107,6 +71,10 @@
       <workItem from="1693564287718" duration="9238000" />
       <workItem from="1693654764775" duration="11695000" />
       <workItem from="1693807120694" duration="12577000" />
+      <workItem from="1693835269242" duration="2481000" />
+      <workItem from="1693919434188" duration="1024000" />
+      <workItem from="1693990265829" duration="11044000" />
+      <workItem from="1694162478826" duration="901000" />
     </task>
     <task id="LOCAL-00001" summary="patterns">
       <option name="closed" value="true" />
@@ -116,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693572808293</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="patterns">
+      <option name="closed" value="true" />
+      <created>1693835551257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693835551257</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
